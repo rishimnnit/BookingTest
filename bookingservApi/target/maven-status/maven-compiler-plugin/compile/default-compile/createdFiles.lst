@@ -1,0 +1,4 @@
+com/paypal/bfs/test/bookingserv/pojo/Address.class
+com/paypal/bfs/test/bookingserv/api/BookingResource.class
+com/paypal/bfs/test/bookingserv/pojo/BookingResponse.class
+com/paypal/bfs/test/bookingserv/pojo/Booking.class
